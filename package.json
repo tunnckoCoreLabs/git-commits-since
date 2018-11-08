@@ -23,7 +23,7 @@
     "parse-commit-message": "^2.1.4"
   },
   "devDependencies": {
-    "@tunnckocore/config": "^0.5.1",
+    "@tunnckocore/config": "^1.0.0",
     "@tunnckocore/scripts": "^1.1.0",
     "asia": "^0.19.7",
     "charlike": "^3.1.9",
