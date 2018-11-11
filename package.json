@@ -20,7 +20,7 @@
     "detect-next-version": "^3.0.1",
     "esm": "^3.0.84",
     "git-raw-commits": "^2.0.0",
-    "parse-commit-message": "^2.1.4"
+    "parse-commit-message": "^3.0.0"
   },
   "devDependencies": {
     "@tunnckocore/config": "^0.5.1",

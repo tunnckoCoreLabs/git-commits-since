@@ -656,7 +656,7 @@ collect-mentions@0.1.1:
   dependencies:
     mentions-regex "2.0.3"
 
-collect-mentions@^1.0.1:
+collect-mentions@^1.0.1, collect-mentions@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/collect-mentions/-/collect-mentions-1.0.2.tgz#30734fcb33cbf8999cf7fd6d9c3133045f0b4dcc"
   integrity sha512-/jRhzWp5bkZnvgtR+agXT0RvYKBXOl4uG+eKA6ip3tp1x+jRAV36jW2TceKutOeuEPjHKaQ6DJjeh5zvZF0fWQ==
@@ -3144,6 +3144,16 @@ parse-commit-message@^2.1.4:
   integrity sha512-yV1yen81YdfoSG9Ganf0SrwIVs2gSNdOnKwLarGnUUO1Ry8Wd2mHn1sFrtq/tVoAQqgsPHX6zoGVOnOnKyFpjw==
   dependencies:
     collect-mentions "^1.0.1"
+
+parse-commit-message@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-3.0.0.tgz#725131c943e0bd942c4b3a9152822fb03df30cc8"
+  integrity sha512-5114UPqb0Me8eQEZWRkY2S85ntyNOBC6d+znuT/skBfuPRFIZyOC608zmAZLdyt32WxILQcYBn7WJBddMZSedw==
+  dependencies:
+    collect-mentions "^1.0.2"
+    dedent "^0.7.0"
+    esm "^3.0.84"
+    mixin-deep "^2.0.0"
 
 parse-git-config@^1.0.2, parse-git-config@^1.1.1:
   version "1.1.1"
