@@ -26,7 +26,7 @@
     "asia": "^0.19.7",
     "dedent": "^0.7.0",
     "fs-extra": "^7.0.0",
-    "parse-commit-message": "^3.2.0",
+    "parse-commit-message": "^4.0.0",
     "simple-git": "^1.107.0"
   },
   "files": [
