@@ -11,7 +11,7 @@
     "precommit": "yarn run lint && yarn run test-only",
     "commit": "yarn dry",
     "dry": "git add -A && git status --porcelain && gitcommit",
-    "release": "tunnckocore-release"
+    "release": "new-release"
   },
   "engines": {
     "node": "^8.10.0 || >=10.13.0"
