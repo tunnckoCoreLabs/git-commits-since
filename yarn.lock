@@ -135,7 +135,7 @@
     p-map-series "^1.0.0"
     split-cmd "^1.0.0"
 
-"@tunnckocore/git-semver-tags@^0.2.0":
+"@tunnckocore/git-semver-tags@0.2.0":
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@tunnckocore/git-semver-tags/-/git-semver-tags-0.2.0.tgz#e43a9e5d4e295559d107e9d5cee6767ba1280fcf"
   integrity sha512-2akwb2w3vzIZTdTAi/UcFTYyUqFP0M62aEtUobwCxqjsbruFUTEvPLN6wkoExcZhIxvvj2SN0jMAsOmoydVFQA==
@@ -933,10 +933,10 @@ eslint@^5.8.0:
     table "^5.0.2"
     text-table "^0.2.0"
 
-esm@^3.0.84:
-  version "3.0.84"
-  resolved "https://registry.yarnpkg.com/esm/-/esm-3.0.84.tgz#bb108989f4673b32d4f62406869c28eed3815a63"
-  integrity sha512-SzSGoZc17S7P+12R9cg21Bdb7eybX25RnIeRZ80xZs+VZ3kdQKzqTp2k4hZJjR7p9l0186TTXSgrxzlMDBktlw==
+esm@^3.0.84, esm@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/esm/-/esm-3.2.0.tgz#089011156cf817ccdae38c877cbe03301df04136"
+  integrity sha512-yK4IiHmmInOk9q4xbJXdUfPV0ju7GbRCbhtpe5/gH7nRiD6RAb12Ix7zfsqQkDL5WERwzFlq/eT6zTXDWwIk+w==
 
 espree@^4.0.0:
   version "4.1.0"
@@ -1175,7 +1175,7 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-git-raw-commits@^2.0.0:
+git-raw-commits@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/git-raw-commits/-/git-raw-commits-2.0.0.tgz#d92addf74440c14bcc5c83ecce3fb7f8a79118b5"
   integrity sha512-w4jFEJFgKXMQJ0H0ikBk2S+4KP2VEjhCvLCNqbNRQC8BgGWgLKNCO7a9K9LI+TVT7Gfoloje502sEnctibffgg==
@@ -2092,10 +2092,10 @@ p-try@^1.0.0:
   resolved "https://registry.yarnpkg.com/p-try/-/p-try-1.0.0.tgz#cbc79cdbaf8fd4228e13f621f2b1a237c1b207b3"
   integrity sha1-y8ec26+P1CKOE/Yh8rGiN8GyB7M=
 
-parse-commit-message@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-3.2.0.tgz#8065d006e9e4b273889130067ae435b8986508a6"
-  integrity sha512-LzkHT+I2cG+3v0iGnMNPda4qdZoTjiz40rOEdo7pd7gpE4YHXFDvF4dj2LuoMQX7Ykb3WlKZBfwLSKFHASvjGw==
+parse-commit-message@3.2.3:
+  version "3.2.3"
+  resolved "https://registry.yarnpkg.com/parse-commit-message/-/parse-commit-message-3.2.3.tgz#96a0b2e3fb295aece355d3a8bd326b6a6f555372"
+  integrity sha512-JujCvCYUrjhmaRHb2AuzR9mAos9JE/5+ZftAaFoGtPhoJ9KNQcgx6JtrWGmGFkVjfky5qTBRjzJeFZla1Po0/A==
   dependencies:
     collect-mentions "^1.0.2"
     dedent "^0.7.0"
