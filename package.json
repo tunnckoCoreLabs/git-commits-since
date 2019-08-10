@@ -25,7 +25,7 @@
     "git-raw-commits": "2.0.0"
   },
   "devDependencies": {
-    "@tunnckocore/config": "^1.0.2",
+    "@tunnckocore/config": "^5.0.0",
     "asia": "^0.19.7",
     "dedent": "^0.7.0",
     "fs-extra": "^7.0.0",
