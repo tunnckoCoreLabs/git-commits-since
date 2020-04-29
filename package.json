@@ -30,7 +30,7 @@
     "dedent": "^0.7.0",
     "fs-extra": "^7.0.0",
     "parse-commit-message": "3.2.3",
-    "simple-git": "^1.107.0"
+    "simple-git": "^2.0.0"
   },
   "files": [
     "src",
