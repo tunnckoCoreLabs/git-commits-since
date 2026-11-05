@@ -20,7 +20,7 @@
     "esm": "^3.2.0"
   },
   "dependencies": {
-    "@tunnckocore/git-semver-tags": "0.2.0",
+    "@tunnckocore/git-semver-tags": "0.2.5",
     "esm": "^3.2.0",
     "git-raw-commits": "2.0.0"
   },
